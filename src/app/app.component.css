@@ -1,0 +1,11 @@
+.nav{
+    background-color: #5c5050;
+    border-bottom: 1px solid #e9ecef;
+    padding: 0 60px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+.navLink{
+    color: #fff;
+    margin: 5px;
+    text-decoration: none;
+}
